@@ -1,6 +1,3 @@
-# whatsapp_doc
-
-
 # WhatsApp 
 
 WhatsApp é um aplicativo disponível em várias plataformas - Android, BlackBerry OS, iOS, Symbian, Windows Phone e Nokia -, que permite a troca de mensagens instantâneas e chamadas de voz entre seus usuários. Além de mensagens de texto, os usuários podem enviar imagens, vídeos e documentos, tudo por meio de uma conexão com a internet. Algumas de suas funcionalidades são: Lista de Transmissão e Grupos, a quais daremos maiores instruções sobre como usá-las e quais são seus objetivos.  
